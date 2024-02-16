@@ -1,0 +1,1267 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Almahyra - Template kit for Hajj & Umrah Tour Travel",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kit.creativemox.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/kit.creativemox.com\/almahyra\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Detail Package",
+            "screenshot": "screenshots\/detail-package.jpg",
+            "source": "templates\/detail-package.json",
+            "preview_url": "https:\/\/kit.creativemox.com\/almahyra\/template-kit\/detail-package\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/kit.creativemox.com\/almahyra\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/kit.creativemox.com\/almahyra\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/kit.creativemox.com\/almahyra\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/kit.creativemox.com\/almahyra\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Package",
+            "screenshot": "screenshots\/package.jpg",
+            "source": "templates\/package.json",
+            "preview_url": "https:\/\/kit.creativemox.com\/almahyra\/template-kit\/package\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/kit.creativemox.com\/almahyra\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kit.creativemox.com\/almahyra\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Almahyra - Header",
+            "screenshot": "screenshots\/almahyra-header.jpg",
+            "source": "templates\/almahyra-header.json",
+            "preview_url": "https:\/\/kit.creativemox.com\/almahyra\/?elementor_library=almahyra-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Almahyra - Footer",
+            "screenshot": "screenshots\/almahyra-footer.jpg",
+            "source": "templates\/almahyra-footer.json",
+            "preview_url": "https:\/\/kit.creativemox.com\/almahyra\/?elementor_library=almahyra-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Almahyra - Archive Blog",
+            "screenshot": "screenshots\/almahyra-archive-blog.jpg",
+            "source": "templates\/almahyra-archive-blog.json",
+            "preview_url": "https:\/\/kit.creativemox.com\/almahyra\/?elementor_library=almahyra-archive-blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Almahyra - Single Post",
+            "screenshot": "screenshots\/almahyra-single-post.jpg",
+            "source": "templates\/almahyra-single-post.json",
+            "preview_url": "https:\/\/kit.creativemox.com\/almahyra\/?elementor_library=almahyra-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Almahyra - Error 404",
+            "screenshot": "screenshots\/almahyra-error-404.jpg",
+            "source": "templates\/almahyra-error-404.json",
+            "preview_url": "https:\/\/kit.creativemox.com\/almahyra\/?elementor_library=almahyra-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.17.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.0.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Skyboot Custom Icons for Elementor - Elementor Icons library",
+            "version": "1.0.7",
+            "file": "skyboot-custom-icons-for-elementor\/skyboot-custom-icons-for-elementor.php",
+            "author": "Skybootstrap"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.16.1",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "the-hajj-annual-islamic-pilgrimage-to-mecca-saudi-arabia-e1701588845362.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/the-hajj-annual-islamic-pilgrimage-to-mecca-saudi-arabia-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 243223,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/the-hajj-annual-islamic-pilgrimage-to-mecca-saudi--TYQHBTP"
+        },
+        {
+            "filename": "img_1.png",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/img_1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 125576,
+            "dimensions": [
+                600,
+                590
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/muslim-couple-praying-before-umrah-or-hajj-HV58CY2"
+        },
+        {
+            "filename": "parent-prepare-umroh.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/parent-prepare-umroh-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 89003,
+            "dimensions": [
+                1280,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/parent-prepare-umroh-ER6P3YU"
+        },
+        {
+            "filename": "pilgrims-in-kaaba-in-macca-al-haram-umrah-socially-distanced-coronavirus-restrictions-face-mask-1.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/pilgrims-in-kaaba-in-macca-al-haram-umrah-socially-distanced-coronavirus-restrictions-face-mask-1-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/detail-package.json",
+                    "name": "Detail Package"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 193278,
+            "dimensions": [
+                1280,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pilgrims-in-kaaba-in-macca-al-haram-umrah-socially-7YLRWX4"
+        },
+        {
+            "filename": "circle.png",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/circle-800x222.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 16096,
+            "dimensions": [
+                2160,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "liva.png",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/liva-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 34821,
+            "dimensions": [
+                1500,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "ideaa.png",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/ideaa-800x271.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 31228,
+            "dimensions": [
+                1770,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "aven.png",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/aven-800x239.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 30416,
+            "dimensions": [
+                2010,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "amara.png",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/amara-800x210.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 17866,
+            "dimensions": [
+                2284,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "fox-hub.png",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/fox-hub-800x187.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 15676,
+            "dimensions": [
+                2566,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "velocity-9.png",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/velocity-9-800x206.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 38343,
+            "dimensions": [
+                2333,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "earth-2.0.png",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/earth-2.0-800x190.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 54681,
+            "dimensions": [
+                2520,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "treva.png",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/treva-800x223.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 54430,
+            "dimensions": [
+                2155,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "moon-between-two-towers-of-the-prophet-s-mosque-in-al-madinah-saudi-arabia-e1701589745926.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/moon-between-two-towers-of-the-prophet-s-mosque-in-al-madinah-saudi-arabia-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                },
+                {
+                    "source": "templates\/almahyra-archive-blog.json",
+                    "name": "Almahyra - Archive Blog"
+                }
+            ],
+            "filesize": 133321,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/moon-between-two-towers-of-the-prophets-mosque-in--KGWUSVL"
+        },
+        {
+            "filename": "mecca-saudi-arabia-at-night-e1701589802777.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/mecca-saudi-arabia-at-night-800x552.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                },
+                {
+                    "source": "templates\/almahyra-single-post.json",
+                    "name": "Almahyra - Single Post"
+                }
+            ],
+            "filesize": 193302,
+            "dimensions": [
+                1080,
+                746
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/mecca-saudi-arabia-at-night-PQUGXZE"
+        },
+        {
+            "filename": "saudi-arabia-2.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/saudi-arabia-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                }
+            ],
+            "filesize": 134172,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/prophet-mohammed-mosque-al-masjid-an-nabawi-medina-TFW8RCV"
+        },
+        {
+            "filename": "saudi-arabia-e1701588883216.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/saudi-arabia-800x1022.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                }
+            ],
+            "filesize": 95548,
+            "dimensions": [
+                752,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/prophet-mohammed-mosque-al-masjid-an-nabawi-medina-VV98ZZ8"
+        },
+        {
+            "filename": "saudi-arabia-1.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/saudi-arabia-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                }
+            ],
+            "filesize": 124465,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/prophet-mohammed-mosque-al-masjid-an-nabawi-medina-BNNNXM7"
+        },
+        {
+            "filename": "happy-hajj-and-muslim-men-at-a-mosque-to-pray-ramadan-faith-and-group-in-mekka-together-smile-r-e1701589070742.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/happy-hajj-and-muslim-men-at-a-mosque-to-pray-ramadan-faith-and-group-in-mekka-together-smile-r-800x716.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                }
+            ],
+            "filesize": 173782,
+            "dimensions": [
+                1080,
+                967
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-hajj-and-muslim-men-at-a-mosque-to-pray-rama-WPHX2VB"
+        },
+        {
+            "filename": "01.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                }
+            ],
+            "filesize": 38209,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "pilgrims-in-kaaba-in-macca-al-haram-umrah-socially-distanced-coronavirus-restrictions-face-mask-e1701589021331.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/pilgrims-in-kaaba-in-macca-al-haram-umrah-socially-distanced-coronavirus-restrictions-face-mask-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/detail-package.json",
+                    "name": "Detail Package"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 169206,
+            "dimensions": [
+                1280,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pilgrims-in-kaaba-in-macca-al-haram-umrah-socially-N2RKNGG"
+        },
+        {
+            "filename": "medina-saudi-arabia-green-dome-close-up-prophet-mohammed-mosque-al-masjid-an-nabawi-e1701588830368.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/11\/medina-saudi-arabia-green-dome-close-up-prophet-mohammed-mosque-al-masjid-an-nabawi-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/detail-package.json",
+                    "name": "Detail Package"
+                }
+            ],
+            "filesize": 125962,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FKHP85D"
+        },
+        {
+            "filename": "airplane-landing-on-airport-runway-e1701588705653.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/11\/airplane-landing-on-airport-runway-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/detail-package.json",
+                    "name": "Detail Package"
+                }
+            ],
+            "filesize": 134904,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3MWWUKW"
+        },
+        {
+            "filename": "view-of-a-courtyard-of-an-islamic-palace-in-morocco-small-pool-in-the-centre-marble-and-amazing-do.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/view-of-a-courtyard-of-an-islamic-palace-in-morocco-small-pool-in-the-centre-marble-and-amazing-do-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/detail-package.json",
+                    "name": "Detail Package"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 190267,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/view-of-a-courtyard-of-an-islamic-palace-in-morocc-NL7MPXK"
+        },
+        {
+            "filename": "pilgrims-in-kaaba-in-macca-al-haram-umrah-socially-distanced-coronavirus-restrictions-face-mask-e1701588717847.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/11\/pilgrims-in-kaaba-in-macca-al-haram-umrah-socially-distanced-coronavirus-restrictions-face-mask-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/detail-package.json",
+                    "name": "Detail Package"
+                }
+            ],
+            "filesize": 169206,
+            "dimensions": [
+                1280,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N2RKNGG"
+        },
+        {
+            "filename": "prophet-mohammed-mosque-al-masjid-an-nabawi-umra-and-hajj-journey-at-muslim-s-holy-lands.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/prophet-mohammed-mosque-al-masjid-an-nabawi-umra-and-hajj-journey-at-muslim-s-holy-lands-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/detail-package.json",
+                    "name": "Detail Package"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 173519,
+            "dimensions": [
+                1280,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/prophet-mohammed-mosque-al-masjid-an-nabawi-umra-a-2GR6ZYL"
+        },
+        {
+            "filename": "muslim-woman-business-owner-packing-product-preparing-parcel-for-shipping-to-costumer-.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/muslim-woman-business-owner-packing-product-preparing-parcel-for-shipping-to-costumer--800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 63383,
+            "dimensions": [
+                1280,
+                719
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/muslim-woman-business-owner-packing-product-prepar-8KCSL4D"
+        },
+        {
+            "filename": "two-hijab-clad-asian-women-are-brainstorming-together-in-a-conference-room-for-a-startup-run-by-a-y.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/two-hijab-clad-asian-women-are-brainstorming-together-in-a-conference-room-for-a-startup-run-by-a-y-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 99936,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-hijab-clad-asian-women-are-brainstorming-toget-8LXB5JM"
+        },
+        {
+            "filename": "multi-ethnic-business-team-in-conference-room.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/multi-ethnic-business-team-in-conference-room-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 117747,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multi-ethnic-business-team-in-conference-room-P93YBJD"
+        },
+        {
+            "filename": "17.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/17.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 33547,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "14.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/14.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 53172,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "18.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/18.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 44243,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "21.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/21.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 42763,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "19.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/19.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 24722,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "02.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 31590,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "11.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 40590,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "two-hijab-clad-asian-women-are-brainstorming-together-in-a-conference-room-for-a-startup-run-by-a-y-1.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/two-hijab-clad-asian-women-are-brainstorming-together-in-a-conference-room-for-a-startup-run-by-a-y-1-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 82514,
+            "dimensions": [
+                1280,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-hijab-clad-asian-women-are-brainstorming-toget-EHYRAKM"
+        },
+        {
+            "filename": "mecca-city-aerial-view.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/mecca-city-aerial-view-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 293267,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/mecca-city-aerial-view-K4EPFQX"
+        },
+        {
+            "filename": "saudi-arabia-madina-city.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/saudi-arabia-madina-city-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 205875,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/medina-saudi-arabia-madina-city-ULWWDMX"
+        },
+        {
+            "filename": "mecca-city-saudi-arabia-urban-1.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/mecca-city-saudi-arabia-urban-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 122376,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/mecca-city-saudi-arabia-urban-K6WUQVB"
+        },
+        {
+            "filename": "hegra-also-known-as-mada-in-salih-or-al-ijr-archaeological-site-nabatean-carved-rock-cave-tombs.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/hegra-also-known-as-mada-in-salih-or-al-ijr-archaeological-site-nabatean-carved-rock-cave-tombs-800x552.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 181821,
+            "dimensions": [
+                1280,
+                883
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hegra-also-known-as-madain-salih-or-al-hijr-archae-PCPF3NJ"
+        },
+        {
+            "filename": "medina-city-saudi-arabia-street.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/medina-city-saudi-arabia-street-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 205244,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/medina-city-saudi-arabia-street-GRDWSJU"
+        },
+        {
+            "filename": "medina-saudi-arabia-green-dome-close-up-prophet-mohammed-mosque-al-masjid-an-nabawi-e1701589008116.jpg",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/medina-saudi-arabia-green-dome-close-up-prophet-mohammed-mosque-al-masjid-an-nabawi-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                }
+            ],
+            "filesize": 125962,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/medina-saudi-arabia-green-dome-close-up-prophet-mo-FKHP85D"
+        },
+        {
+            "filename": "logo_almahyra_.png",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/logo_almahyra_.png",
+            "templates": [
+                {
+                    "source": "templates\/almahyra-header.json",
+                    "name": "Almahyra - Header"
+                }
+            ],
+            "filesize": 11150,
+            "dimensions": [
+                427,
+                109
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo_almahyra_1.png",
+            "thumbnail_url": "http:\/\/kit.creativemox.com\/almahyra\/wp-content\/uploads\/sites\/23\/2023\/12\/logo_almahyra_1.png",
+            "templates": [
+                {
+                    "source": "templates\/almahyra-footer.json",
+                    "name": "Almahyra - Footer"
+                }
+            ],
+            "filesize": 10103,
+            "dimensions": [
+                427,
+                109
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
